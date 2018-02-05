@@ -1,0 +1,24 @@
+.first-title {
+
+  color: whi
+}
+
+.BIGTITLE{
+    background-image: url("Background.jpeg");
+    width: auto;
+    height: 100vh;
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    /* text shit */
+    font-size: 80px;
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 0 0 5px #000;
+}
